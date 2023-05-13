@@ -8,5 +8,7 @@ https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-accounts/
 
 https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-installations/
 
-## <more to come>
+## LAB ACTIVITIES
+
+https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-lab-activities/
   
