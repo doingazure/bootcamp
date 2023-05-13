@@ -11,4 +11,8 @@ https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-installations/
 ## LAB ACTIVITIES
 
 https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-lab-activities/
-  
+
+## THE PROJECT
+
+https://zealous-smoke-01f62660f.3.azurestaticapps.net/labs/swa-collab/
+
